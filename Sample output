@@ -1,0 +1,10 @@
+💬 Welcome to Mood Detector!
+👤 Enter your name: Pooja
+🧠 Hi Pooja, how are you feeling today? (Type 'exit' to quit): happy
+
+[2025-06-09 13:00:00.123456] Detecting mood...
+
+Pooja, here's something for you:
+Great! Keep smiling 😄 and spread joy.
+
+[2025-06-09 13:00:00.123999] Done.
